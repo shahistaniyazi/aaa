@@ -1,0 +1,9 @@
+
+
+
+
+%{ 
+  /* Definition section */
+%} 
+ALPHA [A-Z a-z] 
+DIGIT [0-9] 
